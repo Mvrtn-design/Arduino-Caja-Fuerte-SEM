@@ -1,7 +1,7 @@
 # Arduino-Caja-Fuerte-SEM
 
 - The main idea of the project is design a safe with a double security system: 
-One by entering a four-digit numerical code by keypad and the other by fingerprint reading. 
+one by entering a four-digit numerical code by keypad and the other by fingerprint reading. 
 In this project, the sensors are responsible for collecting information that triggers the opening of the box when certain conditions are met. The project also allows the code or fingerprint to be changed and shows on the screen the result of all the operations and validations that are being carried out.
 
 
