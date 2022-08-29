@@ -1,6 +1,6 @@
 # Arduino-Caja-Fuerte-SEM
 
-The main idea of the project is design a safe with a double security system: 
+- The main idea of the project is design a safe with a double security system: 
 One by entering a four-digit numerical code by keypad and the other by fingerprint reading. 
 In this project, the sensors are responsible for collecting information that triggers the opening of the box when certain conditions are met.
 
@@ -14,7 +14,7 @@ Explain video: https://www.youtube.com/watch?v=4sXUhIz1R3s
 
 
 
-La idea principal del proyecto es diseñar una caja de seguridad con doble sistema de seguridad: 
+- La idea principal del proyecto es diseñar una caja de seguridad con doble sistema de seguridad: 
 uno mediante la introducción de una clave numérica de cuatro dígitos por teclado y otro mediante la lectura de huella digital. 
 En este proyecto, los sensores se encargan de recoger información que activa la apertura de la caja cuando se cumplen ciertas condiciones.
 
