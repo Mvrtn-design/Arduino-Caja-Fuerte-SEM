@@ -20,7 +20,7 @@ uno mediante la introducción de una clave numérica de cuatro dígitos por tecl
 En este proyecto, los sensores se encargan de recoger información que activa la apertura de la caja cuando se cumplen ciertas condiciones. El proyecto, además, permite el cambio de código o de huella y muestra por pantalla el resultado de las operaciones
 y validaciones que realiza el sistema para autorizar la apertura.
 
-Mirala totalmente en: https://proyectos-con-arduino.com/caja-fuerte-sem-sistema-doble-de-seguridad/
+Mira el proyecto detalladamente en: https://proyectos-con-arduino.com/caja-fuerte-sem-sistema-doble-de-seguridad/
 
 Video explicativo: https://www.youtube.com/watch?v=4sXUhIz1R3s
 
