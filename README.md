@@ -1,5 +1,8 @@
-# Arduino-Caja-Fuerte-SEM
-
+<div id="header" align="center">
+  <img src="https://github.com/Mvrtn-design/Mvrtn-design/blob/main/jugar-gumball.gif"/>
+  <h1 align=center" >Caja Fuerte SEM</h1>
+  
+  </div>
 - The main idea of the project is design a safe with a double security system: 
 one by entering a four-digit numerical code by keypad and the other by fingerprint reading. 
 In this project, the sensors are responsible for collecting information that triggers the opening of the box when certain conditions are met. The project also allows the code or fingerprint to be changed and shows on the screen the result of all the operations and validations that are being carried out.
