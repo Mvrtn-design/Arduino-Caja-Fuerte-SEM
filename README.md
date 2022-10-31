@@ -23,7 +23,3 @@ y validaciones que realiza el sistema para autorizar la apertura.
 Mira el proyecto detalladamente en: https://proyectos-con-arduino.com/caja-fuerte-sem-sistema-doble-de-seguridad/
 
 Video explicativo: https://www.youtube.com/watch?v=4sXUhIz1R3s
-
-
-
-#arduino #proyectos #universitarios #caja #fuerte #cajafuerte #URJC #safe #safelocker
